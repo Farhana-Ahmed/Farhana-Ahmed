@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.I have worked as a backend Java developer for 4 years in India. 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.I have worked as a backend Java developer for 4 years in India. Iam very passionate to learn front end technologies and started working on them individually and I came across Salt who gave me amazing opportunity to learn and turn my passion into profession
 
 - :telescope: I’m now living in the Netherlands and working as a FullStack developer for </Salt>.
 

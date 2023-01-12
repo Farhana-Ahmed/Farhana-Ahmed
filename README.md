@@ -55,3 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="HEROKU" alt="HEROKU" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MOCHA" alt="MOCHA" width="40" height="40"/>&nbsp;
  </div>
+ ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farhana-Ahmed&theme=dark&background=000000)](https://git.io/streak-stats)

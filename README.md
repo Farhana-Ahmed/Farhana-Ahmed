@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I work on mini full stack projects and challenge myself to implement new features
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhanakhashiya/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Farhana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhanakhashiya/)
 
 ---
 

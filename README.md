@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amsterdam.Originally from India, I have worked as a backend Java developer in India.Iam a passionate developer with good problem solving skills,enthusiastic,responsible and flexible person with ability to learn and collaborate in a rapidly changing environments. Actively searching for an assignment.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amsterdam. I have worked as a backend Java developer in India.Iam a passionate developer with good problem solving skills,enthusiastic,responsible and flexible person with ability to learn and collaborate in a rapidly changing environments.
 
 - :zap: In my free time, I work on mini full stack projects and challenge myself to implement new features
 

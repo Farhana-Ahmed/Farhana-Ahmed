@@ -21,11 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amsterdam.Originally from India, I have worked as a backend Java developer for 4 years in India. Iam very passionate to learn front end technologies and started working on them individually and I came across Salt who gave me amazing opportunity to learn and turn my passion into profession
-
-- :telescope: I’m now living in the Netherlands(Almere), working with salt PGP programme and looking for an assignment.
-
-- :seedling: Exploring typescript now a days. 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amsterdam.Originally from India, I have worked as a backend Java developer in India.Iam a passionate developer with good problem solving skills,enthusiastic,responsible and flexible person with ability to learn and collaborate in a rapidly changing environments. Actively searching for an assignment.
 
 - :zap: In my free time, I work on mini full stack projects and challenge myself to implement new features
 
